@@ -1,7 +1,7 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=dianaivanaescalanteesquivel/Gemelos-Digitales-Proyecto-Final-Escalante-21212151-)
 
 # Gemelos Digitales: Proyecto Final [Escalante 21212151]
-Proyecto Final: Proceso de inflamación (3 poblaciones)
+Proyecto Final: Proceso de Inflamación (3 Poblaciones)
 
 ## Autor
 Diana Ivana Escalante Esquivel,
