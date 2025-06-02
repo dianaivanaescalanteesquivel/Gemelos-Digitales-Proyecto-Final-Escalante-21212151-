@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Diana Ivana
+    family-names: Escalante Esquivel
+    email: l21212151@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+repository-code: >-
+  https://github.com/dianaivanaescalanteesquivel/Gemelos-Digitales-Algoritmos-de-regresion-no-lineal-Escalante-21212151-/tree/main
+abstract: |-
+  Tecnológico Nacional de México
+  Instituto Tecnológico de Tijuana
+  Ingeniería Biomédica
+  Gemelos Digitales
+  Práctica 3: Algoritmos de regresión no lineal
+keywords:
+  - Crecimiento sigmoidal
+  - Crecimiento logístico
+  - Crecimiento alométrico esférico
+  - Crecimiento alométrico fractal
+  - Crecimiento de Gompertz normal
+  - Crecimiento de Gompertz simplificado
+license: BSD-2-Clause
+date-released: '2025-03-24'
